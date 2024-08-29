@@ -13,7 +13,7 @@ Sou Isaac Pereira Mota, um estudante apaixonado por Engenharia de Software. Tenh
 - **HTML**: Linguagem de marcação para construção de páginas web.
 - **C++**: Linguagem de programação poderosa para desenvolvimento de sistemas e aplicações de alto desempenho.
 
-## Estatísticas do GitHub
+## Estatísticas do GitHub 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsaacMota&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Estatísticas do GitHub"/>
@@ -23,7 +23,7 @@ Sou Isaac Pereira Mota, um estudante apaixonado por Engenharia de Software. Tenh
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMota&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
-## Projetos Destacados
+## Projetos Destacados 🌐
 
 Aqui estão alguns dos meus projetos que estão disponíveis no meu perfil:
 
@@ -34,7 +34,7 @@ Aqui estão alguns dos meus projetos que estão disponíveis no meu perfil:
 - **[My First Blog](https://github.com/IsaacMota/my-first-blog)**: Um blog desenvolvido como parte de um curso de programação. Este projeto demonstra a construção de um blog básico com funcionalidades de postagem e navegação. 
 
 
-## Contato
+## Contato 💬
 
 Você pode me encontrar nas seguintes redes sociais e plataformas:
 
