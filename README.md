@@ -28,7 +28,9 @@ Sou Isaac Pereira Mota, um estudante apaixonado por Engenharia de Software. Tenh
 Aqui estão alguns dos meus projetos que estão disponíveis no meu perfil:
 
 - **[Pomodoro App](https://github.com/IsaacMota/pomodoro_app)**: Um aplicativo Pomodoro construído com Flutter. O Pomodoro App ajuda a melhorar a produtividade, permitindo que você gerencie o tempo de trabalho e de descanso de maneira eficiente. [Confira o projeto!](https://github.com/IsaacMota/pomodoro_app)
-- **[Projeto 2](link-para-o-repositorio)**: Descrição breve do projeto.
+
+- **[Trabalho Soluções para Internet](https://github.com/IsaacMota/trabalhosolucoesparainternet)**: Um projeto para criar um site informativo sobre a banda Guns N' Roses. O site inclui imagens e música, oferecendo uma experiência interativa para os fãs da banda. [Confira o projeto!](https://github.com/IsaacMota/trabalhosolucoesparainternet)
+
 - **[Projeto 3](link-para-o-repositorio)**: Descrição breve do projeto.
 
 ## Contato
@@ -45,4 +47,3 @@ Obrigado por visitar o meu perfil!
 ---
 
 *Este README foi criado para fornecer uma visão geral sobre quem sou e o que faço. Estou sempre aberto a aprender mais e colaborar em novos projetos.*
-
