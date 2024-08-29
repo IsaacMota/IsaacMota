@@ -4,7 +4,7 @@
 
 Sou Isaac Pereira Mota, um estudante apaixonado por Engenharia de Software. Tenho experiência em diversas linguagens e frameworks, incluindo Dart, Flutter, JavaScript, Python, HTML e C++. No meu perfil, você encontrará uma variedade de projetos e testes que refletem meu aprendizado e desenvolvimento.
 
-## Tecnologias e Ferramentas
+## Tecnologias e Ferramentas ⚙️
 
 - **Dart**: Linguagem de programação usada principalmente com o framework Flutter.
 - **Flutter**: Framework para construção de interfaces nativas para iOS e Android.
@@ -33,14 +33,12 @@ Aqui estão alguns dos meus projetos que estão disponíveis no meu perfil:
 
 - **[My First Blog](https://github.com/IsaacMota/my-first-blog)**: Um blog desenvolvido como parte de um curso de programação. Este projeto demonstra a construção de um blog básico com funcionalidades de postagem e navegação. 
 
-- **[Projeto 4](link-para-o-repositorio)**: Descrição breve do projeto.
 
 ## Contato
 
 Você pode me encontrar nas seguintes redes sociais e plataformas:
 
 - [LinkedIn](https://www.linkedin.com/in/isaacpereiramota) 
-- [Twitter](https://twitter.com/isaac_pereira)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se você estiver interessado em colaborar ou tiver alguma dúvida.
 
