@@ -2,20 +2,26 @@
 
 ## Sobre Mim
 
-Sou Isaac Pereira Mota, um estudante apaixonado por Engenharia de Software. Tenho experiência em várias linguagens de programação e frameworks, incluindo Dart, Flutter, JavaScript e Python. No meu perfil, você encontrará uma variedade de projetos e testes que refletem meu aprendizado e desenvolvimento.
+Sou Isaac Pereira Mota, um estudante apaixonado por Engenharia de Software. Tenho experiência em diversas linguagens e frameworks, incluindo Dart, Flutter, JavaScript, Python, HTML e C++. No meu perfil, você encontrará uma variedade de projetos e testes que refletem meu aprendizado e desenvolvimento.
 
 ## Tecnologias e Ferramentas
 
 - **Dart**: Linguagem de programação usada principalmente com o framework Flutter.
 - **Flutter**: Framework para construção de interfaces nativas para iOS e Android.
-- **JavaScript**: Linguagem de programação essencial para o desenvolvimento web.
-- **Python**: Linguagem versátil utilizada em diversos contextos, de desenvolvimento web a ciência de dados.
+- **JavaScript**: Linguagem essencial para o desenvolvimento web.
+- **Python**: Linguagem versátil utilizada em diversos contextos.
+- **HTML**: Linguagem de marcação para construção de páginas web.
+- **C++**: Linguagem de programação poderosa para desenvolvimento de sistemas e aplicações de alto desempenho.
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IsaacMota&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaacMota&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Estatísticas do GitHub"/>
+</p>
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMota&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMota&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+</p>
 
 ## Projetos Destacados
 
@@ -39,4 +45,3 @@ Obrigado por visitar o meu perfil!
 ---
 
 *Este README foi criado para fornecer uma visão geral sobre quem sou e o que faço. Estou sempre aberto a aprender mais e colaborar em novos projetos.*
-
