@@ -38,7 +38,8 @@ Aqui estão alguns dos meus projetos que estão disponíveis no meu perfil:
 
 Você pode me encontrar nas seguintes redes sociais e plataformas:
 
-- [LinkedIn](https://www.linkedin.com/in/isaacpereiramota) 
+- [LinkedIn](https://www.linkedin.com/in/isaacpereiramota)
+- [isaacpmota@gmail.com]
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se você estiver interessado em colaborar ou tiver alguma dúvida.
 
