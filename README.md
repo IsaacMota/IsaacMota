@@ -25,9 +25,9 @@ Sou Isaac Pereira Mota, um estudante apaixonado por Engenharia de Software. Tenh
 
 ## Projetos Destacados
 
-Confira alguns dos meus projetos e testes que estão disponíveis no meu perfil:
+Aqui estão alguns dos meus projetos que estão disponíveis no meu perfil:
 
-- **[Projeto 1](link-para-o-repositorio)**: Descrição breve do projeto.
+- **[Pomodoro App](https://github.com/IsaacMota/pomodoro_app)**: Um aplicativo Pomodoro construído com Flutter. O Pomodoro App ajuda a melhorar a produtividade, permitindo que você gerencie o tempo de trabalho e de descanso de maneira eficiente. [Confira o projeto!](https://github.com/IsaacMota/pomodoro_app)
 - **[Projeto 2](link-para-o-repositorio)**: Descrição breve do projeto.
 - **[Projeto 3](link-para-o-repositorio)**: Descrição breve do projeto.
 
@@ -45,3 +45,4 @@ Obrigado por visitar o meu perfil!
 ---
 
 *Este README foi criado para fornecer uma visão geral sobre quem sou e o que faço. Estou sempre aberto a aprender mais e colaborar em novos projetos.*
+
